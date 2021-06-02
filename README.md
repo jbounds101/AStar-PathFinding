@@ -6,6 +6,6 @@ Right-clicking removes walls, as well as the start or end position so they can b
 
 The purple line is the quickest path to the destination.
 range start, cyan end). <br>
-(o![ezgif com-gif-maker](https://user-images.githubusercontent.com/70382763/120475164-02c63200-c377-11eb-978d-eaf7de84856d.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/70382763/120475164-02c63200-c377-11eb-978d-eaf7de84856d.gif)
 
 
