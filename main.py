@@ -18,7 +18,7 @@ GREY = (128, 128, 128)
 TURQUOISE = (64, 224, 208)
 
 
-# A spot or single box or grid point
+# A spot or single box or grid pointa
 class Node:
     def __init__(self, row, col, width, total_rows):
         self.row = row
